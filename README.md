@@ -24,8 +24,6 @@ Mfuzz - Used for trend clustering of metabolomic data.
 
 Python Libraries
 
-PyTorch (v 1.7) - Used for implementing the metabolomic state model with a residual neural network.
-
-PyTorch Lightning (v 1.4) - Used to simplify training of PyTorch models.
+PyTorch (v 2.3) - Used for implementing the metabolomic state model with a residual neural network.
 
 SHAP - Used for explaining the predictions of machine learning models.
