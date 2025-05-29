@@ -1,6 +1,5 @@
-Comprehensive Metabolic Profiling and Machine Learning Model for Differentiation Status Prediction in Thyroid Cancer!
-
-![rect198480](https://github.com/user-attachments/assets/ab47616b-3008-4c09-9c36-ecdcfd9728b8)
+Developing a Thyroid Cancer Differentiation State Classification System Using Deep Residual Networks and Metabolic Signature Profiling
+![image](https://github.com/user-attachments/assets/6c849598-03ec-45af-903a-482d556a5e34)
 
 
 
