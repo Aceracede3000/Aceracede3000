@@ -1,0 +1,66 @@
+System and Language Versions
+
+Conda environment: Miniconda
+
+Python: 3.9 (Conda managed)
+
+R: 4.3.2
+
+High-Throughput Sequencing & Quality Control
+
+Trimmomatic: v0.39
+
+FastQC: v0.11.9
+
+Burrows–Wheeler Aligner (BWA): v0.7.17
+
+SAMtools: v1.8
+
+VarScan2: v2.4.4
+
+ANNOVAR: 2020-06-08 release
+
+Metabolomic Data Analysis
+
+MetaboAnalyst: 6.0
+
+mixOmics (sPLS-DA): v6.30.0
+
+Mfuzz: v2.52.0 (R/Bioconductor)
+
+Single-Cell RNA-seq Analysis
+
+Seurat: v5.3.0
+
+Harmony: v1.0
+
+
+Survival and Statistical Analysis (R)
+
+survival (Kaplan–Meier, Cox models): v3.8-3
+
+sva (ComBat batch correction): v3.40.0
+
+Mfuzz (trend clustering): v2.52.0
+
+ggplot2, dplyr, and other tidyverse packages: v1.4.2 
+
+All additional base R functions (Shapiro–Wilk, Levene, t-tests, ANOVA, Mann–Whitney U, Kruskal–Wallis, chi-square, Fisher’s exact, Pearson/Spearman correlations, p-value adjustment via Benjamini–Hochberg) were executed using R 4.3.2 and its built-in or recommended companion packages.
+
+Machine Learning and Model Interpretation (Python)
+
+PyTorch: 1.13.1
+
+scikit-learn: 1.2.2
+
+pandas: 1.5.3
+
+numpy: 1.23.5
+
+shap: 0.41.0
+
+matplotlib: 3.6.1
+
+torchvision (if used): 0.14.1
+
+tqdm (progress bars): 4.64.1
