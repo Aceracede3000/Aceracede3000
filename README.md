@@ -3,7 +3,7 @@ Developing a Thyroid Cancer Differentiation State Classification System Using De
 
 
 
-
+10-MG and 10M models share the same code.
 
 Tools
 
